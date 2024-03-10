@@ -1,0 +1,196 @@
+<<<<<<< HEAD
+/* @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'M PLUS 1', Arial;
+}
+body{
+    color: #ffffff;
+    background-color: #222222;
+}
+header{
+    padding: 20px;
+    text-align: center;
+    background-color: #333333;
+}
+h1{
+    margin: 0;
+}
+#main-content{
+    padding: 20px;
+}
+footer{
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+} */
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Segoe UI';
+    background-color: #0c0c0c;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url('../assets/header-background.jpg'); /* Add a futuristic image */
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 80px 0;
+}
+.header-content{
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1{
+    margin: 0;
+    font-size: 2.5em;
+}
+p{
+    font-size: 1.2em;
+}
+#main-content{
+    padding: 50px 0;
+}
+.content-container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+#btn{
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translateX(-50%);
+    padding: 10px 10px;
+    background: #ffffff;
+    color: #0c0c0c;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+h2{
+    color: #ffa500;
+}
+footer{
+    width: 100%;
+    background-color: #222222;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+=======
+/* @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'M PLUS 1', Arial;
+}
+body{
+    color: #ffffff;
+    background-color: #222222;
+}
+header{
+    padding: 20px;
+    text-align: center;
+    background-color: #333333;
+}
+h1{
+    margin: 0;
+}
+#main-content{
+    padding: 20px;
+}
+footer{
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+} */
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Segoe UI';
+    background-color: #0c0c0c;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url('../assets/header-background.jpg'); /* Add a futuristic image */
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 80px 0;
+}
+.header-content{
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1{
+    margin: 0;
+    font-size: 2.5em;
+}
+p{
+    font-size: 1.2em;
+}
+#main-content{
+    padding: 50px 0;
+}
+.content-container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+#btn{
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translateX(-50%);
+    padding: 10px 10px;
+    background: #ffffff;
+    color: #0c0c0c;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+h2{
+    color: #ffa500;
+}
+footer{
+    width: 100%;
+    background-color: #222222;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+>>>>>>> f62f40b298e8a6364625c7a69d100b841e7d8c11
+}
